@@ -16,7 +16,7 @@ Skills
 
 Publications(selected papers from Web of Science)
 -------
-* 1.	Wu W H, et al. Design of Calix-Based Cages for CO2 Capture[J]. Ind Eng Chem Res. DOI:10.1021/acs.iecr.7b00189(cover paper)
-* 2.  Wu W H, et al. Solvation of The Ca2UO2(CO3)(3) Complex in SeaWater from Classical Molecular Dynamics[J]. J Phys Chem B. 2016, 120(29): 7227-7233.
+* Wu W H, et al. Design of Calix-Based Cages for CO2 Capture[J]. Ind Eng Chem Res. DOI:10.1021/acs.iecr.7b00189(cover paper)
+* Wu W H, et al. Solvation of The Ca2UO2(CO3)(3) Complex in SeaWater from Classical Molecular Dynamics[J]. J Phys Chem B. 2016, 120(29): 7227-7233.
 
 
