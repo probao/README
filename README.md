@@ -11,3 +11,5 @@ Skill
 ------
 * Quantum Chemistry Calculation: Gaussian, Turbomole
 * Classic Molecular Simulation: Lammps, Plumed, MuSiC
+* Code: Linux Bash(awk, sed, grep), Python(data analysis and visualization, machine learning), Matlab(numerical calculation)
+* text editor: vim(just remember '%s/../../g' hhhhhh~~ )
