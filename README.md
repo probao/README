@@ -22,7 +22,7 @@ Publications(selected papers from Web of Science)
 * Wu W H, et al. Structures and Electronic Properties of Transition Metal-Containing Ionic Liquids: Insights from Ion Pairs[J]. J Phys Chem A. 2014, 118(13): 2508-2518.
 * Wu W H, et al. Substituent and transition metal effects on halogen bonding: CSD search and Theoretical study[J]. Comput Theor Chem. 2014, 1029:21-25.
 * Wu W H, et al. Weak energetic effects between X-pi and X-N halogen bonds: CSD search and Theoretical study[J]. Chem Phys Lett. 2013, 582(49-55).
-<div align=center><img width="250" height="350" src="https://github.com/probao/README/blob/master/figure/iecr.png"/></div><br>
+<div align=center><img width="250" height="350" src="https://github.com/probao/README/blob/master/figure/iecr.png"/><br>
 <div align=center> Fig 1. Cover Paper:Design of Calix-Based Cages for CO2 Capture(the right bottom corner) <br>
 
 
