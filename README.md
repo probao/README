@@ -26,7 +26,7 @@ Publications(selected papers from Web of Science)
 <div align=center> Fig 1. Cover Paper:Design of Calix-Based Cages for CO2 Capture(the right bottom corner) <br>
 
 
-Interests
+<div align=left>Interests
 -----------
 * DotA 2 
   * My favorite heros: Bristleback, Slark, Razor
