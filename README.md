@@ -18,5 +18,8 @@ Publications(selected papers from Web of Science)
 -------
 * Wu W H, et al. Design of Calix-Based Cages for CO2 Capture[J]. Ind Eng Chem Res. DOI:10.1021/acs.iecr.7b00189(cover paper)
 * Wu W H, et al. Solvation of The Ca2UO2(CO3)(3) Complex in SeaWater from Classical Molecular Dynamics[J]. J Phys Chem B. 2016, 120(29): 7227-7233.
-
+* Wu W H, et al. The acidity/basicity of metal-containing Ionic Liquids: insights from surface Analysis and The Fukui function[J]. Phys Chem Chem Phys. 2015, 17(2): 1339-1346.
+* Wu W H, et al. Structures and Electronic Properties of Transition Metal-Containing Ionic Liquids: Insights from Ion Pairs[J]. J Phys Chem A. 2014, 118(13): 2508-2518.
+* Wu W H, et al. Substituent and transition metal effects on halogen bonding: CSD search and Theoretical study[J]. Comput Theor Chem. 2014, 1029:21-25.
+* Wu W H, et al. Weak energetic effects between X-pi and X-N halogen bonds: CSD search and Theoretical study[J]. Chem Phys Lett. 2013, 582(49-55).
 
