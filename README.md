@@ -25,7 +25,6 @@ Publications(selected papers from Web of Science)
 <div align=center><img width="250" height="350" src="https://github.com/probao/README/blob/master/figure/iecr.png"/></div><br>
 <div align=center> Fig 1. Cover Paper:Design of Calix-Based Cages for CO2 Capture(the right bottom corner)</div> <br>
 
-
 Interests
 -------------
 * DotA 2 
@@ -35,7 +34,7 @@ Interests
   * DotaBuff:https://www.dotabuff.com/players/179724070 (I haven't played dota2 for a long time)
   
 * Basketball
-  * My favorite basketball players: Yao and T-Mac(I have watched '13 pts in 35s' for more than 50 timeshttps://www.youtube.com/watch?v=1jbtt6OGLms)
+  * My favorite basketball players: Yao and T-Mac(I have watched '13 pts in 35s' for more than 50 times https://www.youtube.com/watch?v=1jbtt6OGLms)
   * My favorite basketball teams: Shanghai Sharks and Houston Rockets
 
 * Texas Hold'em poker
