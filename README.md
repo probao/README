@@ -35,11 +35,11 @@ Interests
   * DotaBuff:https://www.dotabuff.com/players/179724070 (I haven't played dota2 for a long time)
   
 * Basketball
- * My favorite basketball players: Yao and T-Mac(I have watched '13 pts in 35s' for more than 50 times)
- * My favorite basketball teams: Shanghai Sharks and Houston Rockets
+  * My favorite basketball players: Yao and T-Mac(I have watched '13 pts in 35s' for more than 50 times)
+  * My favorite basketball teams: Shanghai Sharks and Houston Rockets
 
 * Texas Hold'em poker
- * I knew Texas Hold'em poker from 'Rounders'.
- * The most incredible poker moment I have seen is that Tom Dwan(QTo, pair Q) bluffed Peter Eastgate(2X, set) and Barry Greenstein(AA).https://www.youtube.com/watch?v=zfP2GU74dFc
+  * I knew Texas Hold'em poker from 'Rounders'.
+  * The most incredible poker moment I have seen is that Tom Dwan(QTo, pair Q) bluffed Peter Eastgate(2X, set) and Barry Greenstein(AA).https://www.youtube.com/watch?v=zfP2GU74dFc
 
 
