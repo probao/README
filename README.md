@@ -28,7 +28,7 @@ Publications(selected papers from Web of Science)
 Interests
 -------------
 * DotA 2 
-  * My favorite heros: Bristleback, Slark, Razor
+  * My favorite heros: Bristleback, Slark, Razor, Batrider
   * My favorite item: shadow blade
   * My favorite DotA2 pro: Weapon X!!
   * DotaBuff:https://www.dotabuff.com/players/179724070 (I haven't played dota2 for a long time)
