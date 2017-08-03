@@ -5,7 +5,7 @@ Author: Weihong 'Ben' Wu <br>
 Email: ecustwwh@163.com <br>
 -------
 
-Hello everyone! My name is Ben Wu, a ECUST-UCR joint PhD in computational chemistry. I have indulged in math, physics and chemistry since I was a child. My dream was to become a scientist . However after my 5-year PhD experience, I realize that `leaving chinese academia is my biggest contribution to the future of chinese academia.` It's just a joke. 
+Hello everyone! My name is Ben Wu, a ECUST-UCR joint PhD in computational chemistry. I have indulged in math, physics and chemistry since I was a child. My dream was to become a scientist at that time. However after my 5-year PhD experience, I realize that `leaving chinese academia is my biggest contribution to the future of chinese academia.` It's just a joke. 
 
 Skills
 ------
@@ -40,5 +40,5 @@ Interests
 * Texas Hold'em poker
   * I knew Texas Hold'em poker from 'Rounders'.
   * The most incredible poker moment I have seen is that Tom Dwan(QTo, pair Q) bluffed Peter Eastgate(2X, set) and Barry Greenstein(AA).https://www.youtube.com/watch?v=zfP2GU74dFc
-  * I learn 'You should still have the strongest heart even when you just get the weakest hand' from durrrr's move. 
+  * I learn 'You should have the strongest heart even when you just get the weakest hand' from durrrr's move. 
 
