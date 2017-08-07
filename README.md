@@ -42,3 +42,4 @@ Interests
   * The most incredible poker moment I have seen is that Tom Dwan(QTo, pair Q) bluffed Peter Eastgate(2X, set) and Barry Greenstein(AA).https://www.youtube.com/watch?v=zfP2GU74dFc
   * I learn 'You should have the strongest heart even when you just get the weakest hand' from durrrr's move. 
 
+
